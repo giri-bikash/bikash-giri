@@ -5,7 +5,7 @@
 
 ---
 
-Computer Systems Technology student at **Sheridan College** (graduating April 2027), based in **Hamilton, Ontario, Canada**. I'm building hands-on experience in data analysis and backend Java development — working toward a career as a **Data Analyst or Junior Developer** in Canada.
+Computer Systems Technology student at **Sheridan College** (graduating April 2027), based in **Oakville, Ontario, Canada**. I'm building hands-on experience in data analysis and backend Java development — working toward a career as a **Data Analyst or Junior Developer** in Canada.
 
 I enjoy turning raw data into clear insights and building well-structured Java applications. Currently deepening my skills in Python-based data workflows and completing the Google Data Analytics Certificate.
 
