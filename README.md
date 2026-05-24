@@ -1,7 +1,7 @@
 # Bikash Giri — Data Analyst & Java Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bikash--kumar--giri-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikash-kumar-giri-60ab32288)
-![Location](https://img.shields.io/badge/📍-Hamilton%2C%20Ontario%2C%20Canada-green?style=flat)
+![Location](https://img.shields.io/badge/📍-Oakville%2C%20Ontario%2C%20Canada-green?style=flat)
 
 ---
 
