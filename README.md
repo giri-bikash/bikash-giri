@@ -59,4 +59,4 @@ I enjoy turning raw data into clear insights and building well-structured Java a
 
 ---
 
-*Hamilton, Ontario, Canada · Open to Data Analyst & Developer roles*
+*Oakville, Ontario, Canada · Open to Data Analyst & Developer roles*
